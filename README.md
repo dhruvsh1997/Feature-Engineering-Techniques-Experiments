@@ -9,7 +9,7 @@ Welcome to the **Feature Engineering Techniques** repository! This collection of
 Feature Engineering is the art of transforming raw data into meaningful inputs for machine learning models. This process improves accuracy, reduces overfitting, speeds up computation, and enhances model interpretability.
 
 ### 🎯 Key Benefits:
-- ✅ **Improved Accuracy** – by using only informative features.
+- ✅ **Improved Accuracy** – by using only the informative features.
 - 🧠 **Reduced Overfitting** – by removing noise and redundancy.
 - ⚡ **Faster Computation** – fewer features, faster training.
 - 🧾 **Better Interpretability** – clearer insights from clean features.
